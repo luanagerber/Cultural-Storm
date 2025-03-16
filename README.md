@@ -1,4 +1,5 @@
-# 🌍 Cultural Storm - Connecting Cultures
+# Cultural Storm - Connecting Cultures
+This repository contains information about Cultural Storm – an Apple TV app made in SwiftUI, using Xcode.<br>
 
 ![banner](https://github.com/user-attachments/assets/e45e2314-a59e-4730-9d38-a5e3972315a3)
 
@@ -11,10 +12,10 @@ Unlike online forums and social networks, the game creates an interactive space 
 Download on App Store now!
 
 ## Why choose Cultural Storm
-– Explore new cultures in real-time with other students
-– Interactive and playful experience guided by the friendly mascot, Travis
-– Randomized cultural questions that spark authentic discussions and real connections
-– Immersive experience that makes the most of your Apple TV
+- Explore new cultures in real-time with other students
+- Interactive and playful experience guided by the friendly mascot, Travis
+- Randomized cultural questions that spark authentic discussions and real connections
+- Immersive experience that makes the most of your Apple TV
 
 ## How it works
 1. Gather exchange student friends in front of your Apple TV
@@ -23,12 +24,15 @@ Download on App Store now!
 4. Share your stories and traditions
 5. Build bonds that transcend cultural boundaries
 
-## Tecnologias Utilizadas
-- **Plataform:** Apple TV (tvOS)
+## Tools
+- Xcode
+- Figma
 
-- **Language:** Swift (SwiftUI)
+## Development Skills
+- SwiftUI
+- Product Development
 
-## Imagens do Jogo
+## Screenshots
 
 ![420686290-d1f9c923-5b4b-41aa-aeec-44238cf39a41](https://github.com/user-attachments/assets/03f653fb-0cb9-4dea-a653-e13bb415721b)
 ![420686371-9e66d8da-13a5-4453-ae35-cf599a724ba6](https://github.com/user-attachments/assets/4c370172-8d44-45b3-aab2-70c1c75f9fbb)
