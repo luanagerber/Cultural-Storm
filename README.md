@@ -4,30 +4,29 @@
 
 
 ## About
-**Cultural Storm** é um jogo interativo desenvolvido para Apple TV que ajuda estudantes universitários intercambistas a superar o choque cultural de forma envolvente e divertida. 
+**Cultural Storm** is an interactive dynamic developed for Apple TV that helps university exchange students overcome culture shock in an engaging and fun way. 
 
-Diferente de fóruns online e redes sociais, o jogo cria um espaço interativo onde os participantes podem se conectar presencialmente, explorar novas culturas e fortalecer laços de amizade enquanto aprendem sobre diferentes tradições.
+Unlike online forums and social networks, the game creates an interactive space where participants can connect face-to-face, explore new cultures and strengthen bonds of friendship while learning about different traditions.
 
-Atualmente, estamos em processo de publicação do **Cultural Storm** na App Store.
+Download on App Store now!
 
-## 🎯 Por que escolher o Cultural Storm?
-✅ **Explore novas culturas** em tempo real com outros estudantes.  
-🎭 **Dinâmica interativa e lúdica**, guiada pelo mascote Travis.  
-🎲 **Perguntas culturais randomizadas** que estimulam conversas autênticas.  
-📺 **Experiência imersiva**, aproveitando o potencial da Apple TV.  
+## Why choose Cultural Storm
+– Explore new cultures in real-time with other students
+– Interactive and playful experience guided by the friendly mascot, Travis
+– Randomized cultural questions that spark authentic discussions and real connections
+– Immersive experience that makes the most of your Apple TV
 
-## Como Jogar
-1. Reúna amigos intercambistas em frente à Apple TV.  
-2. Selecione o número de participantes.  
-3. Responda às perguntas culturais quando for sua vez.  
-4. Compartilhe suas histórias e tradições.  
-5. Crie laços que ultrapassam fronteiras culturais!  
+## How it works
+1. Gather exchange student friends in front of your Apple TV
+2. Select the number of participants
+3. Answer cultural questions when it’s your turn
+4. Share your stories and traditions
+5. Build bonds that transcend cultural boundaries
 
 ## Tecnologias Utilizadas
-- **Plataforma:** Apple TV (tvOS)
+- **Plataform:** Apple TV (tvOS)
 
-- **Linguagem:** Swift (SwiftUI)
-- **Interface e Experiência do Usuário:** Design otimizado para TV
+- **Language:** Swift (SwiftUI)
 
 ## Imagens do Jogo
 
@@ -38,13 +37,14 @@ Atualmente, estamos em processo de publicação do **Cultural Storm** na App Sto
 ![420686483-63e31740-e774-49b5-b67a-2284c416f1a3](https://github.com/user-attachments/assets/6736390d-8ca0-4cb3-a96f-38536ef41e88)
 
 
-## Publicação na App Store
-Estamos no processo de publicação do **Cultural Storm** na App Store! Em breve, o jogo estará disponível para download.  
+## App Store
+Cultural Storm is available for download on App Store.
 
 ## Authors  
 🎨 **Design:** Letícia Lima 
 
-💻 **Desenvolvimento:** Eduardo Camara, Juliana Magalhães e Luana Gerber 
+💻 **Development:** Eduardo Camara, Juliana Magalhães e Luana Gerber 
 
 
-Descubra novas culturas e torne sua experiência de intercâmbio inesquecível! 🌍✨
+Discover new cultures and share experiences!
+Make your exchange experience unforgettable!
