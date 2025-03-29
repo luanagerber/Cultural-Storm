@@ -45,9 +45,8 @@ Download on App Store now!
 Cultural Storm is available for download on App Store.
 
 ## Authors  
-🎨 **Design:** Letícia Lima 
-
-💻 **Development:** Eduardo Camara, Juliana Magalhães e Luana Gerber 
+**Design:** Letícia Lima
+**Development:** Eduardo Camara, Juliana Magalhães e Luana Gerber 
 
 
 Discover new cultures and share experiences!
