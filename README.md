@@ -9,7 +9,7 @@ This repository contains information about Cultural Storm – an Apple TV app ma
 
 Unlike online forums and social networks, the game creates an interactive space where participants can connect face-to-face, explore new cultures and strengthen bonds of friendship while learning about different traditions.
 
-Download on App Store now!
+<a href="https://apps.apple.com/br/app/cultural-storm/id6743093618?l=en-GB">Download on App Store now!</a>
 
 ## Why choose Cultural Storm
 - Explore new cultures in real-time with other students
@@ -42,7 +42,7 @@ Download on App Store now!
 
 
 ## App Store
-Cultural Storm is available for download on App Store.
+Cultural Storm is available for download on <a href="https://apps.apple.com/br/app/cultural-storm/id6743093618?l=en-GB">App Store</a>.
 
 ## Authors  
 **Design:** Letícia Lima<br>
