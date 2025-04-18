@@ -46,7 +46,7 @@ Cultural Storm is available for download on <a href="https://apps.apple.com/br/a
 
 ## Authors  
 **Design:** Letícia Lima<br>
-**Development:** Eduardo Camara, Juliana Magalhães e Luana Gerber 
+**Development:** Eduardo Camara, Juliana Magalhães and Luana Gerber 
 
 
 Discover new cultures and share experiences!
